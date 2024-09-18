@@ -1,6 +1,5 @@
 
 # WEEEK 1:
-![bai2](https://github.com/user-attachments/assets/cd42ff26-ff8a-493c-8c0b-414494ab1de9)
 
 1) CODE MACHINE LEARNING :
 # problem 1:
@@ -204,6 +203,7 @@ if __name__ == '__main__':
 </body>
 </html>
 -------------------
-![alt text](https://github.com/huyktt1/image/blob/main/my_folder/bai2.png?raw=true)
+
+![bai2](https://github.com/user-attachments/assets/88447ad0-bfc8-40d8-8e78-1627a19fe089)
 
 

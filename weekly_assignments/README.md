@@ -201,5 +201,6 @@ if __name__ == '__main__':
 </body>
 </html>
 -------------------
-![Example Image](bai2.jpg.png)
+![Example Image](![image](https://github.com/user-attachments/assets/8cf526ab-5b70-4b3d-a7f2-516d435562d9)
+)
 

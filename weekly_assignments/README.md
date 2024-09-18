@@ -201,5 +201,6 @@ if __name__ == '__main__':
 </body>
 </html>
 -------------------
-[![Alt text](https://github.com/huyktt1/image/blob/main/my_folder/bai2.jpg.png?raw=true)](https://github.com/huyktt1/image/blob/main/my_folder/bai2.jpg.png?raw=true)
+![bai2 jpg](https://github.com/user-attachments/assets/6e493ef2-8078-44b2-a761-9dcf55a376aa)
+
 

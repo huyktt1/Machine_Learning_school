@@ -200,4 +200,6 @@ if __name__ == '__main__':
     </div>
 </body>
 </html>
-
+-------------------
+# Kết Quả
+![Alt text]("C:\users\acer\Pictures\Screenshots\Ảnh chụp màn hình 2024-09-18 094023.png")

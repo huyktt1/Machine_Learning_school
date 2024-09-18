@@ -201,5 +201,5 @@ if __name__ == '__main__':
 </body>
 </html>
 -------------------
-# Kết Quả
-![Alt text]("C:\users\acer\Pictures\Screenshots\Ảnh chụp màn hình 2024-09-18 094023.png")
+![Ảnh chụp màn hình 2024-09-18 094023](https://github.com/user-attachments/assets/710fb651-aecf-4ca1-be17-eefa7251b581)
+

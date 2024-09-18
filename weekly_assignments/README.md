@@ -201,5 +201,6 @@ if __name__ == '__main__':
 </body>
 </html>
 -------------------
-![Alt text]("C:\users\acer\Pictures\Screenshots\bai2.jpg.png")
+![Alt text](![image](https://github.com/user-attachments/assets/3d0b2f60-5dc6-481a-835b-68d8a6820eaa)
+)
 

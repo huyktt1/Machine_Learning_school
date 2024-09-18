@@ -1,4 +1,7 @@
+
 # WEEEK 1:
+![bai2](https://github.com/user-attachments/assets/cd42ff26-ff8a-493c-8c0b-414494ab1de9)
+
 1) CODE MACHINE LEARNING :
 # problem 1:
 import numpy as np

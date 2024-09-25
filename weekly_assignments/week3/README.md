@@ -1,4 +1,4 @@
-# Mô hình Naive Bayes Dự đoán Loại Thuốc (LAB1)
+# 1 Mô hình Naive Bayes Dự đoán Loại Thuốc (LAB1)
 
 Dự án này triển khai một mô hình học máy sử dụng **Naive Bayes Classifier** để dự đoán loại thuốc mà bệnh nhân nên sử dụng dựa trên một số đặc điểm sức khỏe.
 
@@ -63,7 +63,7 @@ print(f"Dự đoán: {y_pred}")
 print(f"Độ chính xác: {accuracy}")
 ```
 
-# Mô hình Naive Bayes Phân loại Văn bản (LAB2)
+# 2 Mô hình Naive Bayes Phân loại Văn bản (LAB2)
 
 Dự án này triển khai một mô hình phân loại văn bản sử dụng **Naive Bayes Classifier** (MultinomialNB) để dự đoán nhãn của các văn bản giáo dục.
 
@@ -132,5 +132,11 @@ prediction = nb_classifier.predict(new_text_transformed)
 print(f"Dự đoán: {y_pred}")
 print(f"Độ chính xác: {accuracy}")
 print(f"Dự đoán cho văn bản mới: {prediction[0]}")
+```
+# Hiển thị kết quả website:
+
+![Ảnh chụp màn hình 2024-09-25 161144](https://github.com/user-attachments/assets/ad8f6454-66b0-41a6-a490-29dca2d094e8)
+
+
 
 

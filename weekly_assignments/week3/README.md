@@ -61,7 +61,7 @@ accuracy = accuracy_score(y_test, y_pred)
 # In kết quả
 print(f"Dự đoán: {y_pred}")
 print(f"Độ chính xác: {accuracy}")
-###
+```
 
 # Mô hình Naive Bayes Phân loại Văn bản (LAB2)
 

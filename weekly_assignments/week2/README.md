@@ -51,3 +51,7 @@ plt.legend()
 
 # Hiển thị biểu đồ
 plt.show()
+```
+# Hiển thị trang web
+![Ảnh chụp màn hình 2024-09-25 163653](https://github.com/user-attachments/assets/d3ffd5d0-255c-4c0d-ad8e-b7f23b237047)
+

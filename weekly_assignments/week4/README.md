@@ -13,6 +13,7 @@ import pandas as pd: Nhập thư viện pandas, thư viện mạnh mẽ để x�
 import numpy as np: Nhập thư viện numpy, thư viện hỗ trợ tính toán số học trong Python, đặc biệt là cho các mảng.
 Tải Dữ Liệu
 ================================= Đoạn mã dưới đây định nghĩa một hàm để tải dữ liệu từ một tệp CSV:
+```
 
 python
 Sao chép mã

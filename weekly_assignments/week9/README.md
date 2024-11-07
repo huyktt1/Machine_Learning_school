@@ -118,7 +118,7 @@ result_2 = {
 
 print(result_2)
 </code></pre>
-
+--------------------------------------
 <h1>Wine Classification with K-Nearest Neighbors (KNN)</h1>
 
 <h2>Import các thư viện cần thiết</h2>
@@ -180,4 +180,3 @@ print(f"Recall: {recall:.2f}")
 print(f"Precision: {precision:.2f}")
 </code></pre>
 <p>- In các kết quả độ chính xác, recall và precision.</p>
-
